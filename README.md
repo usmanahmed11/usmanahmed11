@@ -37,9 +37,19 @@ I'm a passionate software developer with a focus on creating clean, efficient, a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanahmed11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanahmed11&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanahmed11&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanahmed11&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanahmed11&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanahmed11&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanahmed11&bg_color=1a1b27&color=628fdb&line=38bdae&point=FFFFFF&area=true&hide_border=false" alt="Contribution Graph" width="100%" />
+  
+  <!-- Snake Animation -->
+  <img src="https://github.com/usmanahmed11/usmanahmed11/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ## 🌟 Featured Projects
@@ -66,11 +76,10 @@ I'm a passionate software developer with a focus on creating clean, efficient, a
   </a>
 </div>
 
-## 🐍 Contribution Graph
+## 👁️ Profile Views
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=usmanahmed11&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/usmanahmed11?label=Followers&style=social" alt="GitHub Followers"/>
   <br>
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-</div> 
 </div> 
