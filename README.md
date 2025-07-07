@@ -40,16 +40,16 @@
 
 <div align="center">
   <h3>💻 Frontend Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,next,html,css,js,ts,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,next,js,ts" alt="Frontend Technologies" />
   
   <h3>⚙️ Backend Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,python,django" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express" alt="Backend Technologies" />
   
   <h3>🗄️ Databases & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker,git" alt="Databases & Cloud" />
   
   <h3>🔧 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,linux,vercel" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman,linux,vercel" alt="Tools & Platforms" />
 </div>
 
 <br>
