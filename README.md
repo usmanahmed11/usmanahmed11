@@ -84,38 +84,22 @@
       <td width="50%">
         <div align="center">
           <h3>✈️ TailWinds Aviation</h3>
-          <a href="https://flywithtailwinds.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="TailWinds Aviation"/>
-          </a>
           <p>A cutting-edge web and mobile application for aviation experience - flight reservations, pilot training, and more</p>
           <p>
             <a href="https://flywithtailwinds.com/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
             </a>
           </p>
-          <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-          </p>
         </div>
       </td>
       <td width="50%">
         <div align="center">
           <h3>🧠 iClear Wellness</h3>
-          <a href="https://iclear.vteamslabs.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="iClear Wellness"/>
-          </a>
           <p>First-of-its-kind self-help web app providing 24/7 emotional and mental wellness support with mindfulness-based process</p>
           <p>
             <a href="https://iclear.vteamslabs.com/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
             </a>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
           </p>
         </div>
       </td>
@@ -124,38 +108,22 @@
       <td width="50%">
         <div align="center">
           <h3>🏠 Diamond Pressure Washing</h3>
-          <a href="https://www.diamondpressurewashingperth.com.au/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Diamond Pressure Washing"/>
-          </a>
           <p>Professional pressure washing service in Perth - residential and commercial exterior cleaning with eco-friendly solutions</p>
           <p>
             <a href="https://www.diamondpressurewashingperth.com.au/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
             </a>
           </p>
-          <p>
-            <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-          </p>
         </div>
       </td>
       <td width="50%">
         <div align="center">
           <h3>🤖 BeRemote AI</h3>
-          <a href="https://beremote.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="BeRemote AI"/>
-          </a>
           <p>AI-powered employee engagement platform for remote-first and hybrid teams with asynchronous social interaction</p>
           <p>
             <a href="https://beremote.com/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
             </a>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-            <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=ai&logoColor=white"/>
           </p>
         </div>
       </td>
@@ -175,12 +143,6 @@
             <a href="https://github.com/usmanahmed11/React-Portfolio" target="_blank">
               <img src="https://img.shields.io/badge/📁%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
           </p>
         </div>
       </td>
