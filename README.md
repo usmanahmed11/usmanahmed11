@@ -81,10 +81,74 @@
   <table>
     <tr>
       <td width="50%">
+        <h3 align="center">✈️ TailWinds Aviation</h3>
+        <div align="center">
+          <a href="https://flywithtailwinds.com/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="TailWinds Aviation"/>
+          </a>
+          <br>
+          <p>
+            <a href="https://flywithtailwinds.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
+          </p>
+          <p><sub>A cutting-edge web and mobile application for aviation experience - flight reservations, pilot training, and more</sub></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧠 iClear Wellness</h3>
+        <div align="center">
+          <a href="https://iclear.vteamslabs.com/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="iClear"/>
+          </a>
+          <br>
+          <p>
+            <a href="https://iclear.vteamslabs.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
+          </p>
+          <p><sub>First-of-its-kind self-help web app providing 24/7 emotional and mental wellness support with mindfulness-based process</sub></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏠 Diamond Pressure Washing</h3>
+        <div align="center">
+          <a href="https://www.diamondpressurewashingperth.com.au/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Diamond Pressure Washing"/>
+          </a>
+          <br>
+          <p>
+            <a href="https://www.diamondpressurewashingperth.com.au/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
+          </p>
+          <p><sub>Professional pressure washing service in Perth - residential and commercial exterior cleaning with eco-friendly solutions</sub></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🤖 BeRemote AI</h3>
+        <div align="center">
+          <a href="https://beremote.com/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" alt="BeRemote"/>
+          </a>
+          <br>
+          <p>
+            <a href="https://beremote.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
+          </p>
+          <p><sub>AI-powered employee engagement platform for remote-first and hybrid teams with asynchronous social interaction</sub></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
         <h3 align="center">🎨 Portfolio Website</h3>
         <div align="center">
           <a href="https://react-portfolio-blush-iota.vercel.app/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Portfolio"/>
+            <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Portfolio"/>
           </a>
           <br>
           <p>
@@ -96,17 +160,6 @@
             </a>
           </p>
           <p><sub>My personal portfolio showcasing projects and skills built with React</sub></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 Coming Soon</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="Coming Soon"/>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/🔧%20In%20Development-FF6B6B?style=for-the-badge&logoColor=white"/>
-          </p>
-          <p><sub>Exciting new projects coming soon! Stay tuned for updates.</sub></p>
         </div>
       </td>
     </tr>
