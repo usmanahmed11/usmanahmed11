@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=👋+Welcome+to+my+GitHub!;🚀+Full+Stack+Web+Developer;💻+Building+Amazing+Applications;🌟+Passionate+About+Clean+Code;🔥+Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Software+Engineer;Passionate+Coder" alt="Typing SVG" />
 </div>
 
 <br>
@@ -78,92 +78,100 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">✈️ TailWinds Aviation</h3>
-        <div align="center">
-          <a href="https://flywithtailwinds.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="TailWinds Aviation"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://flywithtailwinds.com/" target="_blank">
-              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
-            </a>
-          </p>
-          <p><sub>A cutting-edge web and mobile application for aviation experience - flight reservations, pilot training, and more</sub></p>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+    <!-- TailWinds Aviation -->
+    <div style="width: 45%; min-width: 300px; background: linear-gradient(45deg, #0D1117, #161b22); border-radius: 16px; padding: 15px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); border: 1px solid rgba(255, 255, 255, 0.08); margin-bottom: 20px;">
+      <div style="position: relative; overflow: hidden; border-radius: 10px; margin-bottom: 15px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px; transition: transform 0.5s;" alt="TailWinds Aviation"/>
+      </div>
+      <h3 style="color: #6A5ACD; font-size: 22px; margin: 10px 0; text-align: center;">✈️ TailWinds Aviation</h3>
+      <p style="color: #ccc; font-size: 14px; line-height: 1.6; margin-bottom: 15px; text-align: center;">A cutting-edge web and mobile application for aviation experience - flight reservations, pilot training, and more</p>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
+        <a href="https://flywithtailwinds.com/" target="_blank" style="text-decoration: none; background: linear-gradient(90deg, #6A5ACD, #9370DB); color: white; padding: 8px 15px; border-radius: 30px; font-weight: bold; display: inline-block; width: 100%; text-align: center; transition: transform 0.3s;">Live Demo</a>
+      </div>
+      <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;">
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">React</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">Node.js</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">MongoDB</span>
+      </div>
+    </div>
+
+    <!-- iClear Wellness -->
+    <div style="width: 45%; min-width: 300px; background: linear-gradient(45deg, #0D1117, #161b22); border-radius: 16px; padding: 15px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); border: 1px solid rgba(255, 255, 255, 0.08); margin-bottom: 20px;">
+      <div style="position: relative; overflow: hidden; border-radius: 10px; margin-bottom: 15px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" style="border-radius: 10px; transition: transform 0.5s;" alt="iClear"/>
+      </div>
+      <h3 style="color: #6A5ACD; font-size: 22px; margin: 10px 0; text-align: center;">🧠 iClear Wellness</h3>
+      <p style="color: #ccc; font-size: 14px; line-height: 1.6; margin-bottom: 15px; text-align: center;">First-of-its-kind self-help web app providing 24/7 emotional and mental wellness support with mindfulness-based process</p>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
+        <a href="https://iclear.vteamslabs.com/" target="_blank" style="text-decoration: none; background: linear-gradient(90deg, #6A5ACD, #9370DB); color: white; padding: 8px 15px; border-radius: 30px; font-weight: bold; display: inline-block; width: 100%; text-align: center; transition: transform 0.3s;">Live Demo</a>
+      </div>
+      <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;">
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">Vue.js</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">Laravel</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">MySQL</span>
+      </div>
+    </div>
+    
+    <!-- Diamond Pressure Washing -->
+    <div style="width: 45%; min-width: 300px; background: linear-gradient(45deg, #0D1117, #161b22); border-radius: 16px; padding: 15px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); border: 1px solid rgba(255, 255, 255, 0.08); margin-bottom: 20px;">
+      <div style="position: relative; overflow: hidden; border-radius: 10px; margin-bottom: 15px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="border-radius: 10px; transition: transform 0.5s;" alt="Diamond Pressure Washing"/>
+      </div>
+      <h3 style="color: #6A5ACD; font-size: 22px; margin: 10px 0; text-align: center;">🏠 Diamond Pressure Washing</h3>
+      <p style="color: #ccc; font-size: 14px; line-height: 1.6; margin-bottom: 15px; text-align: center;">Professional pressure washing service in Perth - residential and commercial exterior cleaning with eco-friendly solutions</p>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
+        <a href="https://www.diamondpressurewashingperth.com.au/" target="_blank" style="text-decoration: none; background: linear-gradient(90deg, #6A5ACD, #9370DB); color: white; padding: 8px 15px; border-radius: 30px; font-weight: bold; display: inline-block; width: 100%; text-align: center; transition: transform 0.3s;">Live Demo</a>
+      </div>
+      <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;">
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">WordPress</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">PHP</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">CSS</span>
+      </div>
+    </div>
+    
+    <!-- BeRemote AI -->
+    <div style="width: 45%; min-width: 300px; background: linear-gradient(45deg, #0D1117, #161b22); border-radius: 16px; padding: 15px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); border: 1px solid rgba(255, 255, 255, 0.08); margin-bottom: 20px;">
+      <div style="position: relative; overflow: hidden; border-radius: 10px; margin-bottom: 15px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" style="border-radius: 10px; transition: transform 0.5s;" alt="BeRemote"/>
+      </div>
+      <h3 style="color: #6A5ACD; font-size: 22px; margin: 10px 0; text-align: center;">🤖 BeRemote AI</h3>
+      <p style="color: #ccc; font-size: 14px; line-height: 1.6; margin-bottom: 15px; text-align: center;">AI-powered employee engagement platform for remote-first and hybrid teams with asynchronous social interaction</p>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
+        <a href="https://beremote.com/" target="_blank" style="text-decoration: none; background: linear-gradient(90deg, #6A5ACD, #9370DB); color: white; padding: 8px 15px; border-radius: 30px; font-weight: bold; display: inline-block; width: 100%; text-align: center; transition: transform 0.3s;">Live Demo</a>
+      </div>
+      <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;">
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">React</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">Next.js</span>
+        <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">AI</span>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Portfolio Website - Full Width -->
+  <div style="width: 94%; background: linear-gradient(45deg, #0D1117, #161b22); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); border: 1px solid rgba(255, 255, 255, 0.08); margin-bottom: 20px;">
+    <div style="display: flex; flex-direction: row; align-items: center; gap: 20px; flex-wrap: wrap;">
+      <div style="flex: 1; min-width: 300px;">
+        <div style="position: relative; overflow: hidden; border-radius: 10px;">
+          <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="border-radius: 10px; transition: transform 0.5s;" alt="Portfolio"/>
         </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧠 iClear Wellness</h3>
-        <div align="center">
-          <a href="https://iclear.vteamslabs.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="iClear"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://iclear.vteamslabs.com/" target="_blank">
-              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
-            </a>
-          </p>
-          <p><sub>First-of-its-kind self-help web app providing 24/7 emotional and mental wellness support with mindfulness-based process</sub></p>
+      </div>
+      <div style="flex: 1; min-width: 300px;">
+        <h3 style="color: #6A5ACD; font-size: 24px; margin: 10px 0;">🎨 Portfolio Website</h3>
+        <p style="color: #ccc; font-size: 15px; line-height: 1.7; margin: 15px 0;">My personal portfolio showcasing projects and skills built with React. Features a modern UI design with smooth transitions, interactive elements, and comprehensive project displays.</p>
+        <div style="display: flex; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
+          <a href="https://react-portfolio-blush-iota.vercel.app/" target="_blank" style="text-decoration: none; background: linear-gradient(90deg, #6A5ACD, #9370DB); color: white; padding: 10px 20px; border-radius: 30px; font-weight: bold; display: inline-block; transition: transform 0.3s;">Live Demo</a>
+          <a href="https://github.com/usmanahmed11/React-Portfolio" target="_blank" style="text-decoration: none; background: linear-gradient(90deg, #333, #444); color: white; padding: 10px 20px; border-radius: 30px; font-weight: bold; display: inline-block; transition: transform 0.3s;">GitHub Repo</a>
         </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏠 Diamond Pressure Washing</h3>
-        <div align="center">
-          <a href="https://www.diamondpressurewashingperth.com.au/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Diamond Pressure Washing"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://www.diamondpressurewashingperth.com.au/" target="_blank">
-              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
-            </a>
-          </p>
-          <p><sub>Professional pressure washing service in Perth - residential and commercial exterior cleaning with eco-friendly solutions</sub></p>
+        <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
+          <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">React</span>
+          <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">Tailwind CSS</span>
+          <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">Framer Motion</span>
+          <span style="background: #2b323b; color: #9ca3af; font-size: 12px; padding: 3px 10px; border-radius: 20px;">Vercel</span>
         </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 BeRemote AI</h3>
-        <div align="center">
-          <a href="https://beremote.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" alt="BeRemote"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://beremote.com/" target="_blank">
-              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
-            </a>
-          </p>
-          <p><sub>AI-powered employee engagement platform for remote-first and hybrid teams with asynchronous social interaction</sub></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <h3 align="center">🎨 Portfolio Website</h3>
-        <div align="center">
-          <a href="https://react-portfolio-blush-iota.vercel.app/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Portfolio"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://react-portfolio-blush-iota.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
-            </a>
-            <a href="https://github.com/usmanahmed11/React-Portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/📁%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
-          <p><sub>My personal portfolio showcasing projects and skills built with React</sub></p>
-        </div>
-      </td>
-    </tr>
-  </table>
+      </div>
+    </div>
+  </div>
 </div>
 
 <br>
@@ -199,30 +207,6 @@
 </div>
 
 <br>
-
-## 💝 Support My Work
-
-<div align="center">
-  <p>If you find my work helpful, consider supporting me:</p>
-  <a href="https://www.buymeacoffee.com/usmanahmed" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://github.com/sponsors/usmanahmed11" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
-  </a>
-</div>
-
-<br>
-
-## 🎵 Currently Coding To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6hzlai2rbkofiga4qnpgd3edu&count=1&unique=true" alt="Spotify Recently Played"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
 
 <div align="center">
   <h3>💖 Thanks for visiting my profile! Have a great day! 💖</h3>
