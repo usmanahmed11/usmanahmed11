@@ -137,7 +137,7 @@
           </a>
           <p>My personal portfolio showcasing projects and skills built with React. Features a modern UI design with smooth transitions and interactive elements.</p>
           <p>
-            <a href="https://react-portfolio-blush-iota.vercel.app/" target="_blank">
+            <a href="https://usmanahmed-dev.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
             </a>
             <a href="https://github.com/usmanahmed11/React-Portfolio" target="_blank">
