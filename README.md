@@ -30,7 +30,7 @@
   
   💬 Ask me about **React, Node.js, Laravel, and full-stack development**
   
-  📫 Check out my [**Portfolio**](https://react-portfolio-blush-iota.vercel.app/) 
+  📫 Check out my [**Portfolio**](https://usmanahmed-dev.vercel.app/) 
   
 </div>
 
@@ -132,7 +132,7 @@
       <td colspan="2">
         <div align="center">
           <h3>🎨 Portfolio Website</h3>
-          <a href="https://react-portfolio-blush-iota.vercel.app/" target="_blank">
+          <a href="https://usmanahmed-dev.vercel.app/" target="_blank">
             <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="Portfolio"/>
           </a>
           <p>My personal portfolio showcasing projects and skills built with React. Features a modern UI design with smooth transitions and interactive elements.</p>
