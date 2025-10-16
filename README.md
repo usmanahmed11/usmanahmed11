@@ -81,7 +81,7 @@
   
   <table>
     <tr>
-       <td width="50%">
+      <td width="50%">
         <div align="center">
           <h3>♻️ ReTeam Energy </h3>
           <p>Comprehensive web-based energy management platform enabling energy auditors, contractors, and property owners to assess, manage, and optimize energy consumption in residential and commercial buildings</p>
@@ -103,6 +103,8 @@
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <div align="center">
           <h3>🧠 iClear Wellness</h3>
@@ -114,8 +116,6 @@
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%">
         <div align="center">
           <h3>🏠 Diamond Pressure Washing</h3>
@@ -127,6 +127,8 @@
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <div align="center">
           <h3>🤖 BeRemote AI</h3>
@@ -137,6 +139,8 @@
             </a>
           </p>
         </div>
+      </td>
+      <td width="50%">
       </td>
     </tr>
     <tr>
