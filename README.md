@@ -103,7 +103,7 @@
           </p>
         </div>
       </td>
-      <td width="50%">
+      <td width="100%">
         <div align="center">
           <h3>🧠 iClear Wellness</h3>
           <p>First-of-its-kind self-help web app providing 24/7 emotional and mental wellness support with mindfulness-based process</p>
