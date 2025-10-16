@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usman%20Ahmed&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usman%20Ahmed&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Software+Engineer;Passionate+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Engineer;Passionate+Coder" alt="Typing SVG" />
 </div>
 
 <br>
