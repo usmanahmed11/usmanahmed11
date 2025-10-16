@@ -81,6 +81,17 @@
   
   <table>
     <tr>
+       <td width="50%">
+        <div align="center">
+          <h3>♻️ ReTeam Energy </h3>
+          <p>Comprehensive web-based energy management platform enabling energy auditors, contractors, and property owners to assess, manage, and optimize energy consumption in residential and commercial buildings</p>
+          <p>
+            <a href="https://app.reteamforutilities.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
+          </p>
+        </div>
+      </td>
       <td width="50%">
         <div align="center">
           <h3>✈️ TailWinds Aviation</h3>
