@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=react,vue,angular,next,js,ts" alt="Frontend Technologies" />
   
   <h3>⚙️ Backend Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,python,fastapi" alt="Backend Technologies" />
   
   <h3>🗄️ Databases & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker,git" alt="Databases & Cloud" />
