@@ -139,6 +139,9 @@
             <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+            <a href="https://dev.granit.ai/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
           </p>
         </div>
       </td>
@@ -242,6 +245,9 @@
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
             <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
             <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white"/>
+            <a href="https://eaglespiritflooring.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
           </p>
         </div>
       </td>
