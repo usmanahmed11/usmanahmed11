@@ -264,9 +264,6 @@
             <a href="https://usmanahmed-dev.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
             </a>
-            <a href="https://github.com/usmanahmed11/React-Portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/📁%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
           </p>
         </div>
       </td>
