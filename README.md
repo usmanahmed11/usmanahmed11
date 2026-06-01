@@ -44,16 +44,16 @@
   <h3>🤖 AI / LLM Stack</h3>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6A5ACD?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=for-the-badge&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge&logoColor=white" alt="AI Agents"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LlamaIndex-6A5ACD?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/ChromaDB-000000?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/RAG%20Systems-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="RAG"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AI%20Agents-6A5ACD?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents"/>
 
   <h3>💻 Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=react,vue,angular,next,js,ts" alt="Frontend Technologies" />
