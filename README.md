@@ -42,8 +42,6 @@
 
 <div align="center">
   <h3>🤖 AI / LLM Stack</h3>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  &nbsp;
   <img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://custom-icon-badges.demolab.com/badge/LlamaIndex-6A5ACD?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
   <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
