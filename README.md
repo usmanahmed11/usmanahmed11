@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usman%20Ahmed&fontSize=80&fontAlignY=35&desc=Senior%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usman%20Ahmed&fontSize=80&fontAlignY=35&desc=Senior%20Full%20Stack%20%7C%20AI%20Engineer&descAlignY=55&descAlign=50&v=1" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&lines=Senior+Full+Stack+%26+AI+Engineer;AI+Architect;Multi-Agent+Systems+Architect;LLM+%26+RAG+Specialist;Cloud-Native+Solution+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&lines=Senior+Full+Stack+and+AI+Engineer;AI+Architect;Multi-Agent+Systems+Architect;LLM+and+RAG+Specialist;Cloud-Native+Solution+Builder&v=1" alt="Typing SVG" />
 </div>
 
 <br>
