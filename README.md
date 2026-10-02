@@ -71,7 +71,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=usmanahmed11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanahmed11&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
 <div align="center">
@@ -84,7 +84,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanahmed11&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/usmanahmed11">
+    <img src="https://ghchart.rshah.org/6A5ACD/usmanahmed11" alt="GitHub Contribution Calendar" />
+  </a>
 </div>
 
 <br>
@@ -157,6 +159,9 @@
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
             <img src="https://img.shields.io/badge/SAP%20ERP-008FD3?style=flat-square&logo=sap&logoColor=white"/>
             <img src="https://img.shields.io/badge/Asynchronous%20Queues-FF6B6B?style=flat-square&logoColor=white"/>
+            <a href="https://wms.skyworthservice.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
           </p>
         </div>
       </td>
