@@ -132,6 +132,38 @@
     <tr>
       <td width="50%">
         <div align="center">
+          <h3>🍽️ RMS - Restaurant Management & POS</h3>
+          <p>Enterprise multi-tenant Restaurant Management System & Point of Sale (POS) ecosystem. Features interactive touch POS, real-time Kitchen Display System (KDS), table reservations, ESC/POS & QZ Tray thermal printing, rider dispatch, and sales analytics.</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+            <a href="https://restaurantmanagementapp.vteamslabs.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>📦 SWU Warehouse System</h3>
+          <p>Enterprise warehouse and shipment management system featuring a dual-database PHP/Laravel architecture, real-time SAP/Dynamics AX integrations, and automated compliance barcode printing (SSCC, VICS).</p>
+          <p>
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/SAP%20ERP-008FD3?style=flat-square&logo=sap&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Asynchronous%20Queues-FF6B6B?style=flat-square&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
           <h3>💎 Granit.AI</h3>
           <p>Enterprise financial and compliance management platform with AI-driven analysis. Built with Vue 3, FastAPI, PostgreSQL, and Docker for enterprise clients.</p>
           <p>
