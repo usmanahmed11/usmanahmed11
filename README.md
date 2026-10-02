@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usman%20Ahmed&fontSize=80&fontAlignY=35&desc=AI%20Architect%20%7C%20Senior%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usman%20Ahmed&fontSize=80&fontAlignY=35&desc=Senior%20Full%20Stack%20%7C%20AI%20Engineer&descAlignY=55&descAlign=50&v=1" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&lines=AI+Architect;Senior+Software+Engineer;Full+Stack+AI+Engineer;Multi-Agent+Systems+Architect;LLM+%26+RAG+Specialist;Cloud-Native+Solution+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&lines=Senior+Full+Stack+and+AI+Engineer;AI+Architect;Multi-Agent+Systems+Architect;LLM+and+RAG+Specialist;Cloud-Native+Solution+Builder&v=1" alt="Typing SVG" />
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 
   👯 Open to collaborate on **AI-powered or full-stack projects**
 
-  💬 Ask me about **RAG, LLM integration, React, FastAPI, Node.js & Laravel**
+  💬 Ask me about **RAG, LLM integration, React, Next.js, NestJS, FastAPI & Laravel**
 
   📫 Check out my [**Portfolio**](https://usmanahmed-dev.vercel.app/)
 
@@ -42,23 +42,25 @@
 
 <div align="center">
   <h3>🤖 AI / LLM Stack</h3>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6A5ACD?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=for-the-badge&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge&logoColor=white" alt="AI Agents"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LlamaIndex-6A5ACD?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/ChromaDB-000000?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/RAG%20Systems-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="RAG"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AI%20Agents-6A5ACD?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents"/>
 
   <h3>💻 Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=react,vue,angular,next,js,ts" alt="Frontend Technologies" />
 
   <h3>⚙️ Backend Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,python,fastapi" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,express,python,fastapi" alt="Backend Technologies" />
 
   <h3>🗄️ Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker,git" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis,aws,docker,git" alt="Databases & Cloud" />
 
   <h3>🔧 Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=vscode,github,postman,linux,vercel" alt="Tools & Platforms" />
@@ -69,12 +71,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmanahmed11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=usmanahmed11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmanahmed11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanahmed11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=usmanahmed11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=usmanahmed11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -95,6 +97,73 @@
     <tr>
       <td width="50%">
         <div align="center">
+          <h3>🤖 DocuMind AI</h3>
+          <p>Enterprise-grade Retrieval-Augmented Generation (RAG) and document intelligence platform. Features semantic chunking, Pinecone hybrid search, and LangGraph multi-agent workflows for automated report generation.</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+            <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+            <a href="https://github.com/usmanahmed11/DocuMind-AI-RAG" target="_blank">
+              <img src="https://img.shields.io/badge/📁%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>🧠 InsightSync AI</h3>
+          <p>Production-grade autonomous multi-agent support orchestrator. Automates ticket routing, sentiment classification, and action execution utilizing LangChain, Gemini Pro, and ChromaDB.</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=white"/>
+            <a href="https://github.com/usmanahmed11/InsightSync-AI-Autonomous-Agentic-Orchestrator" target="_blank">
+              <img src="https://img.shields.io/badge/📁%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <h3>🍽️ RMS - Restaurant Management & POS</h3>
+          <p>Enterprise multi-tenant Restaurant Management System & Point of Sale (POS) ecosystem. Features interactive touch POS, real-time Kitchen Display System (KDS), table reservations, ESC/POS & QZ Tray thermal printing, rider dispatch, and sales analytics.</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+            <a href="https://restaurantmanagementapp.vteamslabs.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>📦 SWU Warehouse System</h3>
+          <p>Enterprise warehouse and shipment management system featuring a dual-database PHP/Laravel architecture, real-time SAP/Dynamics AX integrations, and automated compliance barcode printing (SSCC, VICS).</p>
+          <p>
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/SAP%20ERP-008FD3?style=flat-square&logo=sap&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Asynchronous%20Queues-FF6B6B?style=flat-square&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
           <h3>💎 Granit.AI</h3>
           <p>Enterprise financial and compliance management platform with AI-driven analysis. Built with Vue 3, FastAPI, PostgreSQL, and Docker for enterprise clients.</p>
           <p>
@@ -102,16 +171,20 @@
             <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+            <a href="https://dev.granit.ai/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
           </p>
         </div>
       </td>
       <td width="50%">
         <div align="center">
           <h3>♻️ ReTeam Energy</h3>
-          <p>AI-powered energy efficiency management platform enabling auditors and property managers to assess and optimize energy consumption in residential and commercial buildings.</p>
+          <p>AI-enhanced energy efficiency platform. Leverages machine learning and LLM prompt chaining to automate building energy auditing, analyze utility bills, and dynamically generate retrofit recommendations.</p>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
             <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+            <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
             <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
             <a href="https://app.reteamforutilities.com/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
@@ -124,11 +197,12 @@
       <td width="50%">
         <div align="center">
           <h3>🤖 BeRemote (ReTeam)</h3>
-          <p>AI-powered employee engagement and team cohesion platform for remote and hybrid workplaces. Features async check-ins, AI coaching, wellness prompts, and integrations with Teams, Slack & Zoom.</p>
+          <p>AI-powered employee engagement platform. Integrated OpenAI GPT-4 models to analyze asynchronous team sentiment, generate automatic weekly retrospectives, and build highlights.</p>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
             <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
             <a href="https://beremote.com/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
@@ -203,6 +277,9 @@
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
             <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
             <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white"/>
+            <a href="https://eaglespiritflooring.com/" target="_blank">
+              <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
+            </a>
           </p>
         </div>
       </td>
@@ -212,9 +289,9 @@
         <div align="center">
           <h3>🎨 Portfolio Website</h3>
           <a href="https://usmanahmed-dev.vercel.app/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="Portfolio"/>
+            <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Portfolio"/>
           </a>
-          <p>Personal portfolio showcasing Full Stack & AI engineering projects. Built with Next.js, TypeScript, and Tailwind CSS with smooth transitions and interactive elements.</p>
+          <p>Personal portfolio showcasing Full Stack & AI engineering projects. Built with Next.js, TypeScript, and Tailwind CSS.</p>
           <p>
             <a href="https://usmanahmed-dev.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
