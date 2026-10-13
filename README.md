@@ -32,7 +32,7 @@
 
   💬 Ask me about **RAG, LLM integration, React, Next.js, NestJS, FastAPI & Laravel**
 
-  📫 Check out my [**Portfolio**](https://usmanahmed-dev.vercel.app/)
+  📫 Check out my [**Portfolio**](https://www.usmanahmed.tech/)
 
 </div>
 
@@ -293,12 +293,12 @@
       <td colspan="2">
         <div align="center">
           <h3>🎨 Portfolio Website</h3>
-          <a href="https://usmanahmed-dev.vercel.app/" target="_blank">
+          <a href="https://www.usmanahmed.tech/" target="_blank">
             <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Portfolio"/>
           </a>
           <p>Personal portfolio showcasing Full Stack & AI engineering projects. Built with Next.js, TypeScript, and Tailwind CSS.</p>
           <p>
-            <a href="https://usmanahmed-dev.vercel.app/" target="_blank">
+            <a href="https://www.usmanahmed.tech/" target="_blank">
               <img src="https://img.shields.io/badge/🔗%20Live%20Demo-6A5ACD?style=for-the-badge&logoColor=white"/>
             </a>
           </p>
@@ -319,7 +319,7 @@
     <a href="https://www.linkedin.com/in/usman-codenerd/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
     </a>
-    <a href="https://usmanahmed-dev.vercel.app/">
+    <a href="https://www.usmanahmed.tech/">
       <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.instagram.com/usman_ahmed17/">
